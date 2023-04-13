@@ -1,0 +1,23 @@
+{
+    "jokes": {
+        "good_joke": {
+            "joke": "How does the ocean say hi? It waves!"
+        },
+        "new_joke": {
+            "joke": "How does the ocean say hi? It waves!!"
+        },
+        "short_joke": {
+            "joke": "1234"
+        }
+    },
+    "math": {
+        "next": {
+            "params": 99,
+            "response": 100
+        },
+        "lcm": {
+            "params": "?numbers=10&numbers=24",
+            "response": 120
+        }
+    }
+}
